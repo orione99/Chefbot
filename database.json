@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "food101_label": "tiramisu",
+    "name": "Tiramisù",
+    "ingredients": ["savoiardi", "caffè", "mascarpone", "uova", "zucchero", "cacao"],
+    "nutritional_values": {"calories": 380, "protein_g": 6, "carbs_g": 38, "fat_g": 22},
+    "description": "Ricco e goloso dessert freddo al cucchiaio, molto nutriente, denso e calorico."
+  },
+  {
+    "id": 1,
+    "food101_label": "pizza",
+    "name": "Pizza Margherita",
+    "ingredients": ["farina", "pomodoro", "mozzarella", "basilico", "olio d'oliva"],
+    "nutritional_values": {"calories": 266, "protein_g": 11, "carbs_g": 33, "fat_g": 10},
+    "description": "Classica pizza napoletana cotta in forno con pomodoro, mozzarella e basilico."
+  },
+  {
+    "id": 2,
+    "food101_label": "baklava",
+    "name": "Baklava",
+    "ingredients": ["pasta fillo", "noci", "miele", "burro", "cannella", "sciroppo"],
+    "nutritional_values": {"calories": 428, "protein_g": 7, "carbs_g": 52, "fat_g": 23},
+    "description": "Ricco e croccante dessert medioorientale stratificato con miele, sciroppo e frutta secca."
+  },
+  {
+    "id": 3,
+    "food101_label": "churros",
+    "name": "Churros",
+    "ingredients": ["farina", "acqua", "zucchero", "cannella", "olio per friggere"],
+    "nutritional_values": {"calories": 305, "protein_g": 4, "carbs_g": 40, "fat_g": 15},
+    "description": "Pastella fritta croccante spolverata con zucchero e cannella."
+  },
+  {
+    "id": 4,
+    "food101_label": "sushi",
+    "name": "Sushi Nigiri",
+    "ingredients": ["riso per sushi", "salmone fresco", "aceto di riso", "wasabi"],
+    "nutritional_values": {"calories": 180, "protein_g": 9, "carbs_g": 28, "fat_g": 2.5},
+    "description": "Piatto giapponese sano, fresco, ipocalorico e leggero con riso e pesce crudo."
+  },
+  {
+    "id": 5,
+    "food101_label": "caprese_salad",
+    "name": "Insalata Caprese",
+    "ingredients": ["pomodori", "mozzarella di bufala", "basilico", "olio d'oliva", "sale"],
+    "nutritional_values": {"calories": 177, "protein_g": 10, "carbs_g": 3, "fat_g": 14},
+    "description": "Piatto estivo crudo, esteticamente fresco, molto leggero, poco calorico, digeribile e salutare."
+  },
+  {
+    "id": 6,
+    "food101_label": "guacamole",
+    "name": "Guacamole",
+    "ingredients": ["avocado", "lime", "cipolla", "pomodoro", "coriandolo", "sale"],
+    "nutritional_values": {"calories": 160, "protein_g": 2, "carbs_g": 9, "fat_g": 15},
+    "description": "Salsa vegetale messicana fresca a base di avocado e succo di lime."
+  },
+  {
+    "id": 7,
+    "food101_label": "paella",
+    "name": "Paella",
+    "ingredients": ["riso", "zafferano", "gamberi", "cozze", "pollo", "peperoni"],
+    "nutritional_values": {"calories": 350, "protein_g": 20, "carbs_g": 45, "fat_g": 9},
+    "description": "Piatto unico spagnolo nutriente e ricco di riso allo zafferano con pesce e carne."
+  },
+  {
+    "id": 8,
+    "food101_label": "ramen",
+    "name": "Ramen",
+    "ingredients": ["tagliolini", "brodo di maiale", "uovo sodo", "chashu", "cipollotto"],
+    "nutritional_values": {"calories": 436, "protein_g": 20, "carbs_g": 55, "fat_g": 16},
+    "description": "Calda e sostanziosa zuppa giapponese servita in brodo di carne saporito."
+  },
+  {
+    "id": 9,
+    "food101_label": "pancakes",
+    "name": "Pancakes",
+    "ingredients": ["farina", "latte", "uova", "burro", "sciroppo d'acero", "lievito"],
+    "nutritional_values": {"calories": 227, "protein_g": 6, "carbs_g": 28, "fat_g": 10},
+    "description": "Soffice frittella dolce americana per la colazione servita con sciroppo."
+  },
+  {
+    "id": 10,
+    "food101_label": "falafel",
+    "name": "Falafel",
+    "ingredients": ["ceci", "prezzemolo", "aglio", "cumino", "coriandolo", "olio"],
+    "nutritional_values": {"calories": 333, "protein_g": 13, "carbs_g": 32, "fat_g": 18},
+    "description": "Polpette mediorientali di ceci spezie e erbe, fritte e saporite."
+  },
+  {
+    "id": 11,
+    "food101_label": "ice_cream",
+    "name": "Gelato al Cioccolato",
+    "ingredients": ["latte", "panna", "zucchero", "cacao in polvere", "cioccolato fondente"],
+    "nutritional_values": {"calories": 216, "protein_g": 4, "carbs_g": 28, "fat_g": 10},
+    "description": "Dessert freddo, cremoso e dolcissimo a base di cacao e panna."
+  },
+  {
+    "id": 12,
+    "food101_label": "crepes",
+    "name": "Crêpe alla Nutella",
+    "ingredients": ["farina", "latte", "uova", "crema alla nocciola", "zucchero a velo"],
+    "nutritional_values": {"calories": 450, "protein_g": 8, "carbs_g": 58, "fat_g": 21},
+    "description": "Cialda morbida farcita con ricca e densa crema al cacao e nocciole."
+  },
+  {
+    "id": 13,
+    "food101_label": "hamburger",
+    "name": "Hamburger",
+    "ingredients": ["pane per hamburger", "carne bovina", "formaggio cheddar", "lattuga", "pomodoro"],
+    "nutritional_values": {"calories": 510, "protein_g": 28, "carbs_g": 40, "fat_g": 26},
+    "description": "Panino sostanzioso e calorico con carne di manzo e formaggio fuso."
+  },
+  {
+    "id": 14,
+    "food101_label": "croissant",
+    "name": "Croissant",
+    "ingredients": ["farina", "burro", "zucchero", "lievito di birra", "latte"],
+    "nutritional_values": {"calories": 406, "protein_g": 8, "carbs_g": 45, "fat_g": 21},
+    "description": "Prodotto da forno sfogliato, burroso e fragrante per la colazione."
+  }
+]
